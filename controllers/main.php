@@ -9,7 +9,7 @@ class Main extends Controller{
         parent::__construct();
     }
     function saludo(){
-        echo "llamade al metodo saludo";
+        echo "llamaste al metodo saludo";
     }
 }
 ?>
