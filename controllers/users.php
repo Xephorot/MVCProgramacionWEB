@@ -2,7 +2,8 @@
 class Users extends Controller{
     function __construct()
     {
-        echo "Llamaste al controlador users";
+        parent::__construct();
+        $this -> view ->render("users/index");
         parent::__construct();
     }
 }

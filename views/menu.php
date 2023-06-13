@@ -8,7 +8,7 @@
 <div>
     <ul class="nav flex-column">
         <li class="nav-item">
-            <a class="nav-link btn btn-white text-dark text-center" href="#">Botón 1</a>
+            <a class="nav-link btn btn-white text-dark text-center" href="users">Users</a>
         </li>
         <li class="nav-item">
             <a class="nav-link btn btn-white text-dark text-center" href="#">Botón 2</a>
