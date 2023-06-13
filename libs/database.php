@@ -8,8 +8,8 @@ class Database{
     public function __construct(){
         $this -> host = constant('HOST');
         $this -> db = constant('DB');
-        $this -> user = constant('USER');
-        $this -> password = constant('PASSWORD');
+        $this -> user = constant('ROOT');
+        $this -> password = constant('');
         $this -> charset = constant('CHARSET');
     }
     function connect (){
