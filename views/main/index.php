@@ -15,6 +15,7 @@
                 <?php require "views/menu.php"?>
                 <div class="mt-auto">
                     <?php require "views/footer.php"?>
+                    <?php require_once 'libs/database.php'?>
                 </div>
             </div>
             <div class="col-10">

@@ -4,11 +4,6 @@
     <div>
         <h6>Sergio Escalante</h6>
     </div>
-    <hr>
-    <div>
-        <h6>Alejandro Montero</h6>
-    </div>
-    <hr>
 </div>
 <div>
     <ul class="nav flex-column">
